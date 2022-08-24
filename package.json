@@ -1,0 +1,19 @@
+{
+    "id": "oveui-layout",
+    "name": "简单易用的栅格布局组件(Row、Col)",
+    "version": "1.4.1205",
+    "description": "提供了row和o-col两个组件，默认24列，推荐使用uni_modules版本->https://ext.dcloud.net.cn/plugin?id=6521",
+    "keywords": [
+        "layout",
+        "row",
+        "col",
+        "栅格组件",
+        "布局"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
